@@ -1,7 +1,6 @@
 # todo
 
-This is a Flask application s
-
+This is a Flask application 
 ## Installation
 
 Clone the repository:
