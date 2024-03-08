@@ -1,14 +1,14 @@
-# sesiii.github.io
+# todo
 
-This is a Flask application served at sesiii.github.io.
+This is a Flask application s
 
 ## Installation
 
 Clone the repository:
-git clone https://github.com/sesiii/sesiii.github.io.git
+git clone https://github.com/sesiii/todo
 
 Navigate to the project directory:
-cd sesiii.github.io
+cd todo
 
 install dependencies
 pip install -r requirements.txt
