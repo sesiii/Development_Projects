@@ -3,16 +3,16 @@
 This is a Flask application 
 ## Installation
 
-Clone the repository:
+## Clone the repository:
 git clone https://github.com/sesiii/todo
 
-Navigate to the project directory:
+## Navigate to the project directory:
 cd todo
 
-install dependencies
+## install dependencies
 pip install -r requirements.txt
 
-run
+## run
 npm start
 
 
